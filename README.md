@@ -25,7 +25,7 @@ This project utilizes a highly integrated MLOps pipeline to handle model deploym
 
 ## 📂 Directory Structure
 ```bash
-MSML_Ika-Nurfitriani/
+SMSML_Ika-Nurfitriani/
 │
 ├── Membangun_Model/              
 │   ├── default-credit-card_preprocessing/ 
